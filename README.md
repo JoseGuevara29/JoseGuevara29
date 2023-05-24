@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoseGuevara29
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Data Structures and Algorithms 
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Analysis tools like Excel, Tableau, SQL and Python 
 - 💞️ I’m looking to collaborate on exciting projects where I can provide value and learn.
-- 📫 How to reach me guevarabus29@gmail.com
+- 📫 How to reach me joseguevara75@outlook.com
 
 <!---
 JoseGuevara29/JoseGuevara29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
