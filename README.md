@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseGuevara29
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis tools like Excel, Tableau, SQL and Python 
+- 👀 I’m interested in IT Professional
+- 🌱 I’m currently learning Networking, Linux and cool technologies 
 - 💞️ I’m looking to collaborate on exciting projects where I can provide value and learn.
 - 📫 How to reach me joseguevara75@outlook.com
 
